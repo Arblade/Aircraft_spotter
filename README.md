@@ -24,6 +24,8 @@ However this database is not adapted, aircraft are seen from edge, and we seek m
 ## Spot aircraft
 
 [Nice tuto from towards data science](https://towardsdatascience.com/airplanes-detection-for-satellite-using-faster-rcnn-d307d58353f1)
+
 [An other one related to a published paper](https://medium.com/the-downlinq/rareplanes-dataset-paper-and-code-release-5b0cba300a0d)
+
 [Rare planes Project](https://www.cosmiqworks.org/rareplanes-public-user-guide/) Very interesting, but dont know if it allows to classify panes by models (not sure).
 
