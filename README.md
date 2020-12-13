@@ -17,4 +17,6 @@ However this database is not adapted, aircraft are seen from edge, and we seek m
 
 [Planet Satellite ImageShip](https://www.kaggle.com/rhammell/planesnet) has the satelittte view. But images are of poor quality. This is done to localize planes on satelittes images. So more for the **second task**.
 
+![image](planet_satellite.png)
+
 
