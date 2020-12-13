@@ -1,6 +1,8 @@
 # Aircraft_spotter
 
-![omage](icon_spotter.png)
+<p align="center">
+![image](icon_spotter.png)
+</p>
 
 This repo has two main objectives :
 
