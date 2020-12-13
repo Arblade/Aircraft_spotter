@@ -1,7 +1,7 @@
 # Aircraft_spotter
 
 <p align="center">
-![image](icon_spotter.png)
+<img src="https://github.com/Arblade/Aircraft_spotter/blob/main/icon_spotter.png" />
 </p>
 
 This repo has two main objectives :
