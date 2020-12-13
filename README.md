@@ -1,5 +1,7 @@
 # Aircraft_spotter
 
+![omage](icon_spotter.png)
+
 This repo has two main objectives :
 
 - first create a CNN to recognize aircrafts
